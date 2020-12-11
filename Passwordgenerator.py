@@ -1,7 +1,7 @@
 import string
 import random
 
-password_length = 10
+password_length = 10            #we can also take the length from user as input
 
 def password_generator(length):
     password_characters = string.ascii_letters + string.digits + string.ascii_letters + string.punctuation
