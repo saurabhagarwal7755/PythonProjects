@@ -33,3 +33,9 @@ while player == False:
         print("That\'s not a valid play.")
     player = False      #make player false to continue the loop
     computer= items[randint(0,2)]
+
+    
+    
+    
+    #done game
+    
