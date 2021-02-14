@@ -1,4 +1,4 @@
-#Rock, Paper, Scissors
+#Rock, Paper, Scissors game
 from random import randint      #for random numbers
 
 #Create a list of rock, paper and scissors
